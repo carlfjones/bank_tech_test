@@ -1,4 +1,4 @@
-require './bank_app.rb'
+require './lib/bank_app.rb'
 
 describe 'Bank account' do
     bank_balance = BankAccount.new
