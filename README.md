@@ -2,8 +2,8 @@
 
 ## Requirements
 
-• Code can be interacted with via the REPL - IRB.
-• Bank app can be used to make deposits, withdrawals and view an account statement. 
+* Code can be interacted with via the REPL - IRB.
+* Bank app can be used to make deposits, withdrawals and view an account statement. 
 
 ## Use of App
 
