@@ -9,7 +9,7 @@
 
 * To use the app, clone this repo
 * In the command line, bundle install
-* create a variable equal to BankAccount.new
+* Create a variable equal to BankAccount.new
 * You can deposit(amount) and withdraw(amount) using methods with the same name
 * If you with to view your transactions use the method - statement
 
