@@ -5,6 +5,14 @@
 • Code can be interacted with via the REPL - IRB.
 • Bank app can be used to make deposits, withdrawals and view an account statement. 
 
+## Use of App
+
+* To use the app, clone this repo
+* In the command line, bundle install
+* create a variable equal to BankAccount.new
+* You can deposit(amount) and withdraw(amount) using methods with the same name
+* If you with to view your transactions use the method - statement
+
 ### User Stories
 ```
 As a user, 
